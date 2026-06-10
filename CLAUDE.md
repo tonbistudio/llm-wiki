@@ -58,7 +58,7 @@ confidence: high | medium | low
 **Entity pages** (`wiki/entities/`):
 - `## Overview` — What this entity is
 - `## Characteristics` — Key properties, attributes, structure
-- `## Common Strategies` — Links to concept pages for strategies or methods associated with this entity
+- `## How to Use` — Setup commands, config examples, first steps
 - `## Related Entities` — Links to related entity pages
 
 **Synthesis pages** (`wiki/syntheses/`):
